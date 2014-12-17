@@ -1,0 +1,38 @@
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\bin\Debug\Miner.exe.config
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\bin\Debug\Miner.exe
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\bin\Debug\Miner.pdb
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\obj\Debug\MainWindow.baml
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\obj\Debug\MainWindow.g.cs
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\obj\Debug\App.g.cs
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\obj\Debug\Miner_MarkupCompile.cache
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\obj\Debug\Miner.g.resources
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.Cache
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\obj\Debug\Miner.exe
+c:\users\юлина\documents\visual studio 2012\Projects\Miner\Miner\obj\Debug\Miner.pdb
+C:\Users\Юлина\Desktop\Miner\Miner\bin\Debug\Miner.exe.config
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\Miner.exe
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\Miner.pdb
+C:\Users\Юлина\Desktop\Miner\Miner\bin\Debug\Miner.exe
+C:\Users\Юлина\Desktop\Miner\Miner\bin\Debug\Miner.pdb
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\Miner.csprojResolveAssemblyReference.cache
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\MainWindow.baml
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\MainWindow.g.cs
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\App.g.cs
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\Miner_MarkupCompile.cache
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\Miner.g.resources
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\Юлина\Desktop\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.Cache
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\bin\Debug\Miner.exe.config
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\Miner.exe
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\Miner.pdb
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\bin\Debug\Miner.exe
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\bin\Debug\Miner.pdb
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\Miner.csprojResolveAssemblyReference.cache
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\MainWindow.baml
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\MainWindow.g.cs
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\App.g.cs
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\Miner_MarkupCompile.cache
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\Miner.g.resources
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+D:\Съемный диск\яп\Курсовая декабрь 2013\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.Cache
